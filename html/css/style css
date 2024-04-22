@@ -1,0 +1,14 @@
+body{
+    color: purple
+
+}
+h1{
+    background-color: aqua;
+}
+img{
+    width: 350px;
+    height: 100px;
+}
+p{
+    front-family font-variant-east-asian: ;
+}
